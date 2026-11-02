@@ -1,0 +1,16 @@
+# Obsidian: stato locale dell'interfaccia
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Segreti
+.env
+*.key
+
+# Python
+__pycache__/
