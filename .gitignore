@@ -8,6 +8,22 @@
 Thumbs.db
 desktop.ini
 
+# Materiale grezzo pesante: le informazioni utili finiscono nelle note
+00-inbox/**/*.mp4
+00-inbox/**/*.mov
+00-inbox/**/*.mp3
+00-inbox/**/*.m4a
+00-inbox/**/*.wav
+00-inbox/**/*.pdf
+00-inbox/**/*.zip
+90-archivio/fonti/**/*.mp4
+90-archivio/fonti/**/*.mov
+90-archivio/fonti/**/*.mp3
+90-archivio/fonti/**/*.m4a
+90-archivio/fonti/**/*.wav
+90-archivio/fonti/**/*.pdf
+90-archivio/fonti/**/*.zip
+
 # Segreti
 .env
 *.key

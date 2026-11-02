@@ -1,8 +1,8 @@
 ---
-summary: Una frase: cosa contiene questa nota e quando serve.
+summary: "Una frase che dica cosa contiene questa nota e quando serve."
 tags: [area, tipo]
 related: ["[[nota-collegata]]"]
-fonte: da dove viene (file in 00-inbox, URL, "dichiarato da Tommaso")
+fonte: "90-archivio/fonti/nome-file.md (oppure URL, oppure dichiarato da Tommaso)"
 aggiornato: AAAA-MM-GG
 ---
 

@@ -1,5 +1,5 @@
 ---
-summary: Chi sono e come lavoro: marketer in proprio e programmatore, solo progetti miei. Leggila quando serve il mio contesto generale.
+summary: "Chi sono e come lavoro: marketer in proprio e programmatore, solo progetti miei. Leggila quando serve il mio contesto generale."
 tags: [me, identita]
 related: ["[[AGENTS]]"]
 fonte: dichiarato da Tommaso

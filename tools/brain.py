@@ -148,6 +148,9 @@ def main() -> int:
             missing = [k for k in REQUIRED if not fm.get(k)]
             if missing:
                 errors["Campi mancanti nell'intestazione"].append(f"{rel}: {', '.join(missing)}")
+            for k, v in fm.items():
+                if v and v[0] not in "\"'[" and (": " in v or " #" in v or v[0] in "{&*!|>%@`"):
+                    errors["Valore YAML da mettere tra virgolette doppie"].append(f"{rel}: {k}")
             rel_val = fm.get("related", "")
             if rel_val and not RELATED_OK.match(rel_val):
                 errors['Formato "related" non valido (usa ["[[a]]", "[[b]]"])'].append(rel)

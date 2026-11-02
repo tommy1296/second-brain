@@ -1,5 +1,5 @@
 ---
-summary: Una frase: cos'è il progetto e a che punto è.
+summary: "Una frase che dica cos'è il progetto e a che punto è."
 tags: [progetto]
 related: ["[[AGENTS]]"]
 fonte: dichiarato da Tommaso

@@ -10,7 +10,7 @@ Leggi questo file a inizio sessione. È una mappa: punta ai file giusti, non con
 ## Regole fisse
 1. Cerca a strati e fermati appena hai la risposta: questa mappa → `_index.md` della cartella → `summary` delle note → corpo della nota. Non leggere cartelle intere.
 2. Per cercare in tutto il brain senza aprire file: `grep -rn "^summary:" 20-knowledge/` (vale per ogni cartella).
-3. Non leggere `00-inbox/` né `90-archivio/` se non te lo chiedo.
+3. Non leggere `00-inbox/` né `90-archivio/` se non te lo chiedo (eccezione: aprire una fonte citata in `fonte:` per verificarla).
 4. Usa solo fatti presenti nel brain o detti da me. Se l'informazione manca, rispondi "non presente nel brain". Cita il file da cui prendi ogni informazione.
 5. Ogni progetto è isolato: lavorando su un progetto non usare materiali di un altro progetto, salvo mia richiesta. Il know-how in `20-knowledge/` vale per tutti.
 6. Prima di creare una nota controlla nell'indice che non esista già: se esiste, aggiornala invece di duplicarla.
@@ -25,7 +25,7 @@ Leggi questo file a inizio sessione. È una mappa: punta ai file giusti, non con
 | `30-playbooks/` | procedure passo passo ("come faccio X") | un'attività che si ripete |
 | `40-progetti/` | un'ala per progetto/store | lavori su un progetto specifico |
 | `50-esempi/` | landing di riferimento, template, asset di brand | ti serve un modello concreto |
-| `90-archivio/` | materiale chiuso o superato | solo su richiesta |
+| `90-archivio/` | materiale chiuso o superato; `fonti/` = materiale grezzo già smistato | solo su richiesta |
 | `tools/` | script di manutenzione e template di nota | manutenzione |
 
 Aree di `20-knowledge/`: `landing-page`, `copywriting`, `meta-ads`, `email`, `social`, `funnel`, `concetti` (glossario: definizioni e metriche).
@@ -33,11 +33,16 @@ Aree di `20-knowledge/`: `landing-page`, `copywriting`, `meta-ads`, `email`, `so
 ## Formato delle note
 - Una nota = una idea. Massimo 150 righe. Nome file descrittivo in kebab-case (`hero-section-che-converte.md`).
 - In cima, intestazione YAML (modello: `tools/template-nota.md`):
-  - `summary:` una frase che dica cosa contiene e quando serve (è ciò che leggi per decidere se aprirla)
+  - `summary:` una frase che dica cosa contiene e quando serve (è ciò che leggi per decidere se aprirla). Sempre tra virgolette doppie: senza virgolette un ": " nel testo rompe lo YAML
   - `tags:` area + tipo (`regola`, `esempio`, `dato`, `decisione`, `definizione`)
   - `related:` almeno un wikilink a note collegate, su una riga: `["[[nota-a]]", "[[nota-b]]"]`
-  - `fonte:` da dove viene l'informazione · `aggiornato:` data AAAA-MM-GG
+  - `fonte:` da dove viene l'informazione (di norma un file in `90-archivio/fonti/`) · `aggiornato:` data AAAA-MM-GG
 - Nel testo collega i concetti con `[[nome-nota]]`.
+
+## Smistare l'inbox
+1. Trasforma il materiale di `00-inbox/` in note atomiche (solo fatti presenti nella fonte, niente invenzioni).
+2. Sposta il file smistato in `90-archivio/fonti/` (stesso nome) e fai puntare lì il campo `fonte:` delle note.
+3. L'inbox deve tornare vuota. Video, audio, PDF e zip restano fuori da Git (vedi `.gitignore`).
 
 ## Progetti
 - Ogni progetto vive in `40-progetti/<nome>/` con: `AGENTS.md` (scheda del progetto), `memory.md`, `note/` (ricerche, dati, decisioni), `output/` (landing, copy, creatività).
