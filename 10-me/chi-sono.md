@@ -1,9 +1,9 @@
 ---
 summary: "Chi sono e come lavoro: marketer in proprio e programmatore, solo progetti miei. Leggila quando serve il mio contesto generale."
 tags: [me, identita]
-related: ["[[AGENTS]]"]
+related: ["[[AGENTS]]", "[[tono-di-voce]]", "[[obiettivi]]"]
 fonte: dichiarato da Tommaso
-aggiornato: 2026-11-02
+aggiornato: 2026-11-03
 ---
 
 # Chi sono
@@ -12,8 +12,10 @@ aggiornato: 2026-11-02
 - Programmatore software.
 - Lavoro solo su progetti miei (store e prodotti digitali), non ho clienti.
 
+## Il mio contesto
+- Tono di voce → [[tono-di-voce]]
+- Obiettivi → [[obiettivi]]
+
 ## Da completare
 - Offerta e prodotti → nota `offerta.md`
-- Tono di voce → nota `tono-di-voce.md`
-- Obiettivi → nota `obiettivi.md`
 - Strumenti che uso → nota `stack.md`
