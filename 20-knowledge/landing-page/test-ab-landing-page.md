@@ -14,8 +14,8 @@ aggiornato: 2026-11-03
 3. Distribuire il traffico tra le due.
 4. Confrontare i risultati.
 
-## Caso riportato dall'autore
-L'aggiunta di un blocco di recensioni Google ha portato il tasso di conversione dall'**11,96%** al **14,4%** → vedi [[sezione-fiducia-prove]].
+## Caso riportato
+In una landing per la raccolta di contatti, l'aggiunta di un blocco di recensioni Google ha portato il tasso di conversione in contatti dall'**11,96%** al **14,4%** → vedi [[sezione-fiducia-prove]]. Non è confrontabile con il tasso di conversione in acquisti di un e-commerce, indicato intorno all'1% → [[recupero-traffico-non-convertito]].
 
 ## Quanto traffico serve
 - Evitare decisioni basate su poche visite e proseguire i test nel tempo.

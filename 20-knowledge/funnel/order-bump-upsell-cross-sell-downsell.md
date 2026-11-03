@@ -8,7 +8,7 @@ aggiornato: 2026-11-03
 
 # Order bump, upsell, cross-sell e downsell
 
-Durante l'acquisto e subito dopo si può aumentare il margine su ogni cliente, cioè il valore medio dell'ordine ([[aov-valore-medio-ordine]]).
+Durante l'acquisto e subito dopo si può aumentare il valore di ogni ordine ([[aov-valore-medio-ordine]]).
 
 | Offerta | Dove nel funnel | Come funziona | Esempio riportato |
 |---|---|---|---|

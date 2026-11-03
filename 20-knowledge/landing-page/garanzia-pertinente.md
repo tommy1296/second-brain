@@ -12,7 +12,7 @@ aggiornato: 2026-11-03
 - Può prevedere **rimborso**, **prova** o **flessibilità organizzativa**.
 - Ogni garanzia risponde a un dubbio diverso: va scelta quella pertinente al dubbio del cliente.
 
-## Esempio dal video
+## Esempio riportato
 Per un corso, poter cambiare data elimina un dubbio diverso da quello affrontato dalla garanzia di soddisfazione.
 
 ## Garanzia accanto al pulsante di acquisto

@@ -1,7 +1,7 @@
 ---
 summary: "Come trovare il punto del funnel e-commerce (prodotto → carrello → checkout → acquisto) dove si perdono più utenti: distinguere il problema off-site (annunci) da quello on-site (sito) e le cause tipiche di ogni passaggio."
 tags: [funnel, meta-ads, regola]
-related: ["[[decisioni-con-dati-statisticamente-rilevanti]]", "[[ctr]]", "[[cpc]]", "[[cpm]]", "[[dati-al-pixel-cpm-ed-evento-di-conversione]]", "[[microsoft-clarity-mappe-e-registrazioni]]", "[[rassicurazioni-vicino-al-pulsante-acquisto]]", "[[campagna-che-non-converte-controlla-la-landing]]", "[[quattro-leve-della-marginalita]]"]
+related: ["[[decisioni-con-dati-statisticamente-rilevanti]]", "[[ctr]]", "[[cpc]]", "[[dati-al-pixel-cpm-ed-evento-di-conversione]]", "[[microsoft-clarity-mappe-e-registrazioni]]", "[[rassicurazioni-vicino-al-pulsante-acquisto]]", "[[campagna-che-non-converte-controlla-la-landing]]", "[[quattro-leve-della-marginalita]]"]
 fonte: 90-archivio/fonti/riassunto-live-luca-petrosino-analisi-dati.md
 aggiornato: 2026-11-03
 ---
@@ -23,7 +23,7 @@ Traffico pubblicitario → **pagina prodotto** → **carrello** → **checkout**
 Il sintomo è un afflusso di visitatori insufficiente rispetto al budget investito. Le metriche da guardare sono:
 - [[ctr]]: sotto lo 0,5% creatività e copy sono poco pertinenti;
 - [[cpc]]: in Italia, sopra 1€ il costo è eccessivo;
-- [[cpm]]: si può abbassare dando più dati al Pixel → [[dati-al-pixel-cpm-ed-evento-di-conversione]].
+- CPM: si può abbassare dando più dati al Pixel → [[dati-al-pixel-cpm-ed-evento-di-conversione]].
 
 ## Problema on-site: il sito
 Il sintomo è che gli annunci portano traffico adeguato ma le conversioni restano nulle o marginali.

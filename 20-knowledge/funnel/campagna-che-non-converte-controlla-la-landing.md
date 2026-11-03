@@ -8,7 +8,7 @@ aggiornato: 2026-11-03
 
 # Campagna che non converte? Controlla la landing
 
-Messaggio centrale del video: **una campagna pubblicitaria può rendere poco perché la pagina di destinazione non convince le persone giuste a contattarti.**
+**Una campagna pubblicitaria può rendere poco perché la pagina di destinazione non convince le persone giuste a contattarti.**
 
 Continuare a cambiare annunci, pubblico e budget può quindi lasciare irrisolto il problema principale.
 

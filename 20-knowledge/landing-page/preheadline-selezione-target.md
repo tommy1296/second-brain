@@ -16,7 +16,7 @@ aggiornato: 2026-11-02
 - esigenza specifica
 - budget, età o situazione personale
 
-## Esempi dal video
+## Esempi riportati
 - **Produttore di forni a legna:** il riferimento a un prodotto durevole da tramandare comunica una fascia artigianale e un prezzo superiore a quello economico.
 - **Studio dentistico:** citare bambini e zona di Alessandria identifica contemporaneamente esigenza e territorio.
 

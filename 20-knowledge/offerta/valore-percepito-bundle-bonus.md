@@ -1,7 +1,7 @@
 ---
 summary: "Come presentare l'offerta scomponendo il bundle, affiancando bonus specifici e aggregando prodotti complementari, per alzare il valore percepito del prezzo. Esempi del template Excel e dei minicorsi."
 tags: [offerta, landing-page, regola, esempio]
-related: ["[[anatomia-landing-page]]", "[[faq-landing-ecommerce]]", "[[order-bump-upsell-cross-sell-downsell]]", "[[aov-valore-medio-ordine]]", "[[branding-status-symbol]]"]
+related: ["[[anatomia-landing-page]]", "[[faq-landing-ecommerce]]", "[[order-bump-upsell-cross-sell-downsell]]", "[[aov-valore-medio-ordine]]", "[[branding-status-symbol]]", "[[price-framing-scomposizione-prezzo]]"]
 fonte: ["90-archivio/fonti/riassunto-live-ecommerce-landing-page.md", "90-archivio/fonti/riassunto-live-luca-petrosino-analisi-dati.md"]
 aggiornato: 2026-11-03
 ---
@@ -21,4 +21,4 @@ Il bundle può anche mettere insieme prodotti complementari, fisici o digitali (
 - testimonianze che rispondono a obiezioni precise → [[sezione-fiducia-prove]];
 - FAQ su consegna, pagamento e garanzie → [[faq-landing-ecommerce]].
 
-Bonus e offerte aggiuntive si possono proporre anche al checkout e dopo l'acquisto → [[order-bump-upsell-cross-sell-downsell]]. Valore percepito dal marchio: [[branding-status-symbol]]. Sequenza completa della landing: [[anatomia-landing-page]].
+Bonus e offerte aggiuntive si possono proporre anche al checkout e dopo l'acquisto → [[order-bump-upsell-cross-sell-downsell]]. Valore percepito dal marchio: [[branding-status-symbol]]. Come presentare il prezzo: [[price-framing-scomposizione-prezzo]]. Sequenza completa della landing: [[anatomia-landing-page]].

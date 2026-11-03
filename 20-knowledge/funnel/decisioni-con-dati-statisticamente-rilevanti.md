@@ -1,7 +1,7 @@
 ---
 summary: "Decidere solo su dati con rilevanza statistica: niente 'secondo me', con un campione piccolo (es. 50 visitatori e 50€ con 0 vendite) si continua a raccogliere dati; nelle prime fasi meglio cambiare impostazione che micro-ottimizzare (Pareto 80/20)."
 tags: [funnel, regola, esempio]
-related: ["[[collo-di-bottiglia-funnel-ecommerce]]", "[[test-ab-landing-page]]", "[[format-creative-meta-ads]]"]
+related: ["[[collo-di-bottiglia-funnel-ecommerce]]", "[[test-ab-landing-page]]", "[[format-creative-meta-ads]]", "[[leva-prezzo-e-tasso-di-conversione]]"]
 fonte: ["90-archivio/fonti/riassunto-live-luca-petrosino-analisi-dati.md", "90-archivio/fonti/riassunto-live-luca-petrosino-creative.md"]
 aggiornato: 2026-11-03
 ---
@@ -19,6 +19,9 @@ Ottimizzare un e-commerce richiede un approccio da ricerca scientifica: le decis
 |---|---|---|---|
 | Campione insufficiente | 50 visitatori, 50€ spesi | 0 vendite: dato non significativo | proseguire il test ed evitare reazioni emotive |
 | Campione valido | volume significativo di clic ed eventi | colli di bottiglia individuati nel funnel | intervenire in modo mirato sulle variabili off-site o on-site → [[collo-di-bottiglia-funnel-ecommerce]] |
+
+## Decide la risposta del mercato
+Il valore di un prodotto e la sua sostenibilità commerciale non dipendono dall'opinione del venditore, ma dalla risposta del mercato (product-market fit). Quando le vendite non arrivano, la mancanza di product-market fit è un fattore critico da verificare. Una leva per farlo: [[leva-prezzo-e-tasso-di-conversione]].
 
 ## Nelle prime fasi di un progetto
 Nel lancio conviene stravolgere rapidamente l'impostazione generale invece di perdersi in micro-ottimizzazioni marginali. Ci si concentra sul 20% delle variabili che genera l'80% del risultato (principio di Pareto).

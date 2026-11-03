@@ -8,7 +8,7 @@ aggiornato: 2026-11-03
 
 # Posizione della CTA e del modulo
 
-La CTA è il pulsante che invita a procedere. Il video confronta tre possibilità:
+La CTA è il pulsante che invita a procedere. Le possibilità sono tre:
 
 | Posizione | Pro | Contro |
 |---|---|---|
@@ -17,7 +17,7 @@ La CTA è il pulsante che invita a procedere. Il video confronta tre possibilit�
 | Modulo in popup | mantiene la pagina più pulita | aggiunge un passaggio dopo il pulsante |
 
 ## Barra fissa
-L'agenzia dell'autore usa spesso anche una barra fissa con la CTA, accessibile durante lo scorrimento.
+Si usa spesso anche una barra fissa con la CTA, accessibile durante lo scorrimento.
 
 ## Nelle landing e-commerce
 La CTA (es. "Acquista ora") va nella prima schermata, subito sotto la promessa, così chi è già pronto può comprare senza scorrere → [[above-the-fold-elementi]]. L'area accanto al pulsante va completata con recensioni, loghi di pagamento e garanzie → [[rassicurazioni-vicino-al-pulsante-acquisto]].

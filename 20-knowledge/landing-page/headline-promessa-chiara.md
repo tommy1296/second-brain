@@ -15,14 +15,14 @@ Il titolo principale deve:
 3. contenere una promessa;
 4. toccare un'emozione rilevante per il pubblico.
 
-## Esempi dal video
+## Esempi riportati
 - **Corso di public speaking:** promette di superare la paura di parlare in pubblico → intercetta una *paura*.
 - **Wedding Revolution:** propone ai professionisti del matrimonio di farsi scegliere prima della richiesta del prezzo → intercetta la *frustrazione* della concorrenza al ribasso.
 - **Template per inserzioni Meta:** la headline punta sul problema principale del target, cioè il tempo che serve a creare le grafiche da zero → caso completo in [[above-the-fold-elementi]].
 
 ## Come si scrive
 - Il lavoro parte dalla conoscenza dei desideri e dei problemi del cliente.
-- L'autore richiama le motivazioni umane descritte nel libro *Cashvertising*.
+- Riferimento citato sulle motivazioni umane: il libro *Cashvertising*.
 - Sviluppa numerose alternative del titolo e poi le testa → [[test-ab-landing-page]].
 
 Prima del titolo: [[preheadline-selezione-target]]. Dopo: [[subheadline-credibilita]] e, nelle landing e-commerce, la sezione sul problema ([[framework-pas]]). Sequenza completa: [[anatomia-landing-page]].

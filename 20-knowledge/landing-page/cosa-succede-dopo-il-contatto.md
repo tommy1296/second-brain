@@ -16,7 +16,7 @@ La pagina dovrebbe chiarire:
 
 Dettagli concreti riducono l'incertezza.
 
-## Esempio dal video
+## Esempio riportato
 Per il chirurgo, la possibilità di una prima visita online risponde al problema della distanza.
 
 Fa parte dell'ultimo ingranaggio insieme a [[garanzia-pertinente]] e [[campi-modulo-qualificazione]]. Sequenza completa: [[anatomia-landing-page]].

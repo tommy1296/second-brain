@@ -19,7 +19,7 @@ I due obiettivi vanno perseguiti insieme: una vendita che lascia il cliente inso
 ## Come si traduce nel lavoro
 Note del brain che servono entrambi gli obiettivi:
 - Qualificare il target, così comprano le persone giuste e calano resi e insoddisfazione → [[sezione-per-chi-e-per-chi-non-e]], [[preheadline-selezione-target]]
-- Verificare che l'offerta piaccia davvero al mercato → [[product-market-fit]]
+- Verificare che l'offerta piaccia davvero al mercato → [[decisioni-con-dati-statisticamente-rilevanti]]
 - Aumentare il valore di ogni vendita con offerte utili al cliente → [[order-bump-upsell-cross-sell-downsell]]
 - Recuperare chi non ha comprato → [[recupero-traffico-non-convertito]]
 

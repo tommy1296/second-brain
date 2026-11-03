@@ -2,6 +2,7 @@
 # Indice — 20-knowledge/funnel
 
 ## Note
+- [[aov-valore-medio-ordine]] — Le leve per alzare l'AOV (valore medio dell'ordine): order bump, upsell, cross-sell, downsell dell'upsell, sconti a scaglioni, bundle, soglia per la spedizione gratuita e pacchetti promozionali.
 - [[campagna-che-non-converte-controlla-la-landing]] — Se una campagna pubblicitaria rende poco, il problema può essere la landing che non convince le persone giuste: cambiare annunci, pubblico e budget può lasciarlo irrisolto.
 - [[collo-di-bottiglia-funnel-ecommerce]] — Come trovare il punto del funnel e-commerce (prodotto → carrello → checkout → acquisto) dove si perdono più utenti: distinguere il problema off-site (annunci) da quello on-site (sito) e le cause tipiche di ogni passaggio.
 - [[decisioni-con-dati-statisticamente-rilevanti]] — Decidere solo su dati con rilevanza statistica: niente 'secondo me', con un campione piccolo (es. 50 visitatori e 50€ con 0 vendite) si continua a raccogliere dati; nelle prime fasi meglio cambiare impostazione che micro-ottimizzare (Pareto 80/20).

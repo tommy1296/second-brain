@@ -15,7 +15,7 @@ Il sottotitolo è un breve paragrafo, indicativamente di **20–40 parole**, che
 - anticipare dubbi;
 - presentare credenziali.
 
-## Esempi dal video
+## Esempi riportati
 - **Centro estetico:** descrive la tecnologia e affronta le obiezioni sul trattamento.
 - **Chirurgo:** evidenzia esperienza, numero di interventi e caratteristiche della procedura.
 

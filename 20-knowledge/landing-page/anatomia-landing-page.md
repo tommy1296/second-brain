@@ -15,7 +15,7 @@ La landing deve accompagnare il visitatore attraverso quattro passaggi:
 3. fidarsi;
 4. sapere cosa accadrà se decide di procedere.
 
-## I 6 ingranaggi, in ordine
+## Landing per contatti (lead generation): i 6 ingranaggi, in ordine
 1. Preheadline: chiarire subito a chi si rivolge la pagina → [[preheadline-selezione-target]]
 2. Headline: una promessa chiara e significativa → [[headline-promessa-chiara]]
 3. Subheadline: perché la promessa è credibile → [[subheadline-credibilita]]
@@ -35,7 +35,7 @@ La pagina deve contenere le informazioni necessarie a decidere, presentate nel m
 Una schermata iniziale ordinata e comprensibile predispone favorevolmente alla lettura.
 
 ## Landing e-commerce e prodotti digitali
-Una seconda impostazione divide la pagina in due parti ([[above-the-fold-below-the-fold]]):
+Per vendere direttamente, come negli store, la pagina si divide in due parti: above the fold (ciò che si vede prima di scorrere) e below the fold (il resto):
 - **Above the fold:** headline, subheadline con bullet, CTA, visual, badge di riprova sociale → [[above-the-fold-elementi]]
 - **Below the fold**, nell'ordine indicato:
   1. consapevolezza del problema → [[framework-pas]]

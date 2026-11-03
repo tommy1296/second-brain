@@ -28,7 +28,7 @@ Leggi questo file a inizio sessione. È una mappa: punta ai file giusti, non con
 | `90-archivio/` | materiale chiuso o superato; `fonti/` = materiale grezzo già smistato | solo su richiesta |
 | `tools/` | script di manutenzione e template di nota | manutenzione |
 
-Aree di `20-knowledge/`: `landing-page`, `copywriting`, `meta-ads`, `email`, `social`, `funnel`, `offerta` (prezzo, posizionamento, bundle, brand), `unit-economics` (conto economico, margini, CAC, cassa), `concetti` (glossario: definizioni e metriche).
+Aree di `20-knowledge/`: `landing-page`, `copywriting`, `meta-ads`, `email`, `social`, `funnel`, `offerta` (prezzo, posizionamento, bundle, brand), `unit-economics` (conto economico, margini, CAC, cassa).
 
 ## Formato delle note
 - Una nota = una idea. Massimo 150 righe. Nome file descrittivo in kebab-case (`hero-section-che-converte.md`).
@@ -39,6 +39,7 @@ Aree di `20-knowledge/`: `landing-page`, `copywriting`, `meta-ads`, `email`, `so
   - `fonte:` da dove viene l'informazione (di norma un file in `90-archivio/fonti/`) · `aggiornato:` data AAAA-MM-GG
 - Nel testo collega i concetti con `[[nome-nota]]`.
 - La fonte si cita solo nel campo `fonte:`, mai nel testo della nota.
+- Niente note di definizioni standard di marketing (CPC, CTR, CAC, LTV, ROAS…): un'AI le conosce già. Si scrivono solo dati, soglie e regole propri della fonte; una sigla si spiega in una riga dentro la nota che la usa.
 
 ## Skill
 Procedure ripetibili in `.claude/skills/<nome>/SKILL.md`. Se il tuo agente non carica le skill da solo, apri il file e seguilo.

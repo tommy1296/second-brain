@@ -29,6 +29,8 @@ Mostrami:
 Parti da `tools/template-nota.md`. Per ogni nota:
 - **Una idea per nota**, testo autonomo, massimo 150 righe (puntare a 20–50).
 - **Solo fatti presenti nella fonte.** Niente aggiunte tue, niente esempi inventati. Esempi e numeri vanno presentati come esempi o casi riportati, non come verità generali.
+- **Niente definizioni standard.** Non creare note che definiscono termini noti del marketing (CPC, CTR, CAC, LTV, ROAS…). Se la fonte dà soglie, dati o regole su quel termine, mettili nella nota della regola o in una nota di dati.
+- **Niente numeri incoerenti.** Se un esempio della fonte ha numeri che non tornano, non riportarlo e segnalalo nel piano.
 - **Frontmatter:**
   - `summary:` sempre tra virgolette doppie; deve dire cosa contiene la nota e quando serve.
   - `tags:` area + tipo (`regola`, `esempio`, `dato`, `decisione`, `definizione`).
