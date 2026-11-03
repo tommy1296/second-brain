@@ -1,9 +1,9 @@
 ---
 summary: "Come migliorare la landing con i test A/B: due varianti, un elemento cambiato alla volta, traffico diviso; caso recensioni Google da 11,96% a 14,4%; circa 1.000-1.500 clic per variante come riferimento."
 tags: [landing-page, funnel, regola, dato]
-related: ["[[anatomia-landing-page]]", "[[headline-promessa-chiara]]", "[[posizione-cta-e-modulo]]", "[[sezione-fiducia-prove]]"]
+related: ["[[anatomia-landing-page]]", "[[headline-promessa-chiara]]", "[[posizione-cta-e-modulo]]", "[[sezione-fiducia-prove]]", "[[decisioni-con-dati-statisticamente-rilevanti]]"]
 fonte: 90-archivio/fonti/riassunto-landing-page-efficace.md
-aggiornato: 2026-11-02
+aggiornato: 2026-11-03
 ---
 
 # Test A/B sulla landing page
@@ -21,6 +21,7 @@ L'aggiunta di un blocco di recensioni Google ha portato il tasso di conversione 
 - Evitare decisioni basate su poche visite e proseguire i test nel tempo.
 - Riferimento pratico citato: **1.000–1.500 clic per variante**.
 - La significatività statistica dipende comunque anche dai tassi e dalla differenza osservata.
+- Principio generale delle decisioni basate sui dati → [[decisioni-con-dati-statisticamente-rilevanti]].
 
 ## Cosa testare (dalle altre note)
 - varianti del titolo → [[headline-promessa-chiara]]

@@ -28,7 +28,7 @@ Leggi questo file a inizio sessione. È una mappa: punta ai file giusti, non con
 | `90-archivio/` | materiale chiuso o superato; `fonti/` = materiale grezzo già smistato | solo su richiesta |
 | `tools/` | script di manutenzione e template di nota | manutenzione |
 
-Aree di `20-knowledge/`: `landing-page`, `copywriting`, `meta-ads`, `email`, `social`, `funnel`, `concetti` (glossario: definizioni e metriche).
+Aree di `20-knowledge/`: `landing-page`, `copywriting`, `meta-ads`, `email`, `social`, `funnel`, `offerta` (prezzo, posizionamento, bundle, brand), `concetti` (glossario: definizioni e metriche).
 
 ## Formato delle note
 - Una nota = una idea. Massimo 150 righe. Nome file descrittivo in kebab-case (`hero-section-che-converte.md`).
