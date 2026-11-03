@@ -38,11 +38,13 @@ Aree di `20-knowledge/`: `landing-page`, `copywriting`, `meta-ads`, `email`, `so
   - `related:` almeno un wikilink a note collegate, su una riga: `["[[nota-a]]", "[[nota-b]]"]`
   - `fonte:` da dove viene l'informazione (di norma un file in `90-archivio/fonti/`) · `aggiornato:` data AAAA-MM-GG
 - Nel testo collega i concetti con `[[nome-nota]]`.
+- La fonte si cita solo nel campo `fonte:`, mai nel testo della nota.
 
-## Smistare l'inbox
-1. Trasforma il materiale di `00-inbox/` in note atomiche (solo fatti presenti nella fonte, niente invenzioni).
-2. Sposta il file smistato in `90-archivio/fonti/` (stesso nome) e fai puntare lì il campo `fonte:` delle note.
-3. L'inbox deve tornare vuota. Video, audio, PDF e zip restano fuori da Git (vedi `.gitignore`).
+## Skill
+Procedure ripetibili in `.claude/skills/<nome>/SKILL.md`. Se il tuo agente non carica le skill da solo, apri il file e seguilo.
+- `smista-inbox` — trasforma un file di `00-inbox/` in note atomiche e lo archivia in `90-archivio/fonti/`. Usala ogni volta che si smista l'inbox.
+
+Video, audio, PDF e zip in inbox e fonti restano fuori da Git (vedi `.gitignore`).
 
 ## Progetti
 - Ogni progetto vive in `40-progetti/<nome>/` con: `AGENTS.md` (scheda del progetto), `memory.md`, `note/` (ricerche, dati, decisioni), `output/` (landing, copy, creatività).
@@ -59,5 +61,5 @@ Progetti attivi:
 
 ## Manutenzione
 - Dopo aver creato, spostato o modificato note: `python tools/brain.py` (rigenera gli indici e segnala errori). Correggi gli errori prima di chiudere.
-- Git: a fine lavoro fai un commit con un messaggio breve. Prima di una ristrutturazione grossa, fai un commit di checkpoint.
+- Git: non fare commit se non te lo chiedo. A fine lavoro metti in staging i file del brain (non `.obsidian/`). Prima di una ristrutturazione grossa proponimi un commit di checkpoint.
 - Se aggiungi una cartella o un'area, aggiorna questa mappa nella stessa sessione.
